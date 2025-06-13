@@ -3,7 +3,9 @@
 <h1>Controls</h1>
 <h1>PC:</h1>
 Arrow Keys
+
 Space bar
+
 Click To change gun.
 
 <h1>Phone:</h1>
