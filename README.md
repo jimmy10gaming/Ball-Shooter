@@ -22,3 +22,7 @@ Arrow Keys
 Space bar
 
 Click To change gun.
+
+<h1>How To Install</h1>
+
+Go To Release Tab And Install The Correct Device Your On.
