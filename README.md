@@ -2,6 +2,7 @@
 
 <h1>Controls</h1>
 <h1>PC:</h1>
+
 Arrow Keys
 
 Space bar
